@@ -13,10 +13,10 @@ from keras.utils import np_utils
 from keras.callbacks import ModelCheckpoint
 
 currentPath = os.getcwd()
-os.chdir('D:/workspace/Deep_Learning/5.딥러닝의 활용')
+os.chdir('E:/workspace/Deep_Learning/5.딥러닝의 활용')
 
 # path 설정
-path='dataset/train'
+path='data/train'
 
 # 픽셀 크기 96 * 96
 ROW, COL = 96, 96
