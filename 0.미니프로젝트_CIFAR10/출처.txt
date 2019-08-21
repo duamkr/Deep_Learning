@@ -1,0 +1,15 @@
+- 가중치 규제에 대한 내용 -
+출처 : https://www.tensorflow.org/tutorials/keras/overfit_and_underfit?hl=ko
+
+
+- CIFAR10의 모델구현 -
+출처 : https://datascienceschool.net/view-notebook/8fc58d2c1ffc420dac44eafee7b28cea/
+
+- CIFAR100의 모델구현 - 
+출처 : https://andrewkruger.github.io/projects/2017-08-05-keras-convolutional-neural-network-for-cifar-100
+
+- Optimizer - 
+출처 : https://datascienceschool.net/view-notebook/ba1f343cbe134837959f5c1c4fd98406/
+
+- CIFAR 100  원초적 분석- 
+출처 : http://dongyukang.com/CIFAR100-%ED%95%A9%EC%84%B1%EA%B3%B1-%EC%8B%A0%EA%B2%BD%EB%A7%9D-%ED%95%99%EC%8A%B5/
